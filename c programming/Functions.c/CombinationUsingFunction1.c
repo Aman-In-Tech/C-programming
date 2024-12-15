@@ -7,6 +7,7 @@ int fact(int n){
     return factorial;
 } 
 int main(){
+    
     int n,r;
     printf("Enter n: ");
     scanf("%d",&n);
